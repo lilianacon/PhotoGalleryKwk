@@ -1,0 +1,17 @@
+body{
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 18px;
+}
+img {
+  border-style: outset;
+  border-radius: 10px;
+  border-spacing: 5px;
+  border-color: #dadfe8;
+  border-width: 7px;
+  transition: transform .2s;
+}
+img:hover{
+  transform: scale(1.2);
+}
+
+/* comment */
